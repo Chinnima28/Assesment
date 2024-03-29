@@ -1,5 +1,5 @@
 part - A
-![image](https://github.com/Chinnima28/Assesment/assets/140106046/5b721479-2a94-41de-99fa-38a43e6716ad)
+![image](https://github.com/Chinnima28/Assesment/assets/140106046/e037f8f7-1420-4768-a763-f1932ddd88f4)
 ![image](https://github.com/Chinnima28/Assesment/assets/140106046/3dded834-7ba6-4853-adfe-38ce93e9b762)
 
 Part - B
